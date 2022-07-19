@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**DmitryKolotilshikov/DmitryKolotilshikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details><summary><b>🌱 CSS Projects</b></summary>
+  
+  <ul>
+    <li><a href="https://github.com/DmitryKolotilshikov/simple-tabs">Simple tabs</a></li>
+  </ul>
+</details>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details><summary><b>⚡ JS Projects</b></summary>  
+  <ul>
+    <li><a href="https://github.com/DmitryKolotilshikov/todo-app-func">TODO app (func)</a></li>
+  </ul>
+</details>
