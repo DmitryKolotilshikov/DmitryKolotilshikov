@@ -12,5 +12,6 @@
     <li><a href="https://github.com/DmitryKolotilshikov/todo-app-func">TODO application (func)</a></li>
     <li><a href="https://github.com/DmitryKolotilshikov/todo-application-mvc">TODO application MVC</a></li>
     <li><a href="https://github.com/DmitryKolotilshikov/calendar">Calendar application</a></li>
+    <li><a href="https://github.com/DmitryKolotilshikov/trello-desks-todo-app">Trello TODO app (OOP)</a></li>
   </ul>  
 </details>
