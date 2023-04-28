@@ -4,6 +4,7 @@
   
   <ul>
     <li><a href="https://github.com/DmitryKolotilshikov/simple-tabs">Simple tabs</a></li>
+    <li><a href="https://github.com/DmitryKolotilshikov/3d_cards">3D Cards (flip cards)</a></li>
   </ul>
 </details>
 
