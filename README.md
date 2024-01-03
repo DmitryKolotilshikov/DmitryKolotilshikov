@@ -17,7 +17,7 @@
   </ul>  
 </details>
 
-<details><summary><b>⚡ Frontender[1.0] - 1 Module | Landing Pages</b></summary>  
+<details><summary><b>💎 Frontender[1.0] - 1 Module | Landing Pages</b></summary>  
   <ul>
     <li><a href="https://github.com/DmitryKolotilshikov/cv_page_frontender">Level 0 | CV Page --> HTML & CSS</a></li>
     <li><a href="https://github.com/DmitryKolotilshikov/aivazovski_page">Level 1 | Aivazovski Page --> level 0 + Flexbox & SVG Sprites & Mobile view & Mob Nav Menu & Accessibility & Git</a></li>
