@@ -19,7 +19,7 @@
 
 <details><summary><b>💎 Frontender[1.0] - 1 Module | Materials</b></summary>  
   <ul>
-    <li><a href="https://youtube.com/playlist?list=PLV9lBwGQ2FU1VOctyWifetyMMC-OTJ51e&feature=shared" target="_blank" >----- 1 Module Playlist | Плейлист 1 Модуля | YouTube -----</a></li>
+    <li><a href="https://youtube.com/playlist?list=PLV9lBwGQ2FU1VOctyWifetyMMC-OTJ51e&feature=shared">----- 1 Module Playlist | Плейлист 1 Модуля | YouTube -----</a></li>
     <li><a href="https://github.com/DmitryKolotilshikov/cv_page_frontender">Level 0 | CV Landing Page --> HTML & CSS</a></li>
     <li><a href="https://github.com/DmitryKolotilshikov/aivazovski_page">Level 1 | Aivazovski Landing Page --> level 0 + Flexbox & SVG Sprites & Mobile view & Mob Nav Menu & Accessibility & Git</a></li>
     <li><a href="https://github.com/DmitryKolotilshikov/alivio_page">Level 2 | Alivio Landing Page -->  level 1 + БЭМ </a></li>
