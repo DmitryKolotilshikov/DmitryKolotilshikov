@@ -27,3 +27,9 @@
     <li><a href="https://github.com/DmitryKolotilshikov/FE_1.0_SASS">82-83 уроки: Препроцессоры SASS/SCSS + Parcel + NPM</a></li>
   </ul>  
 </details>
+
+<details><summary><b>🧿 React </b></summary>  
+  <ul>
+    <li><a href="https://github.com/DmitryKolotilshikov/react_19_updates">React 19 Updates | Обзор, Примеры кода, мини Quiz приложение</a></li>
+  </ul>  
+</details>
