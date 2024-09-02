@@ -1,3 +1,5 @@
+![image](Cover_DK_Youtube_thin.jpg)
+
 ### Hi there 👋
 
 <details><summary><b>🌱 CSS Projects</b></summary>
