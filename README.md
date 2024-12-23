@@ -18,6 +18,7 @@
     <li><a href="https://github.com/DmitryKolotilshikov/trello-desks-todo-app">Trello TODO app (OOP)</a></li>
     <li><a href="https://github.com/DmitryKolotilshikov/img_parse">Image uploading and previewing</a></li>
     <li><a href="https://github.com/DmitryKolotilshikov/dice_game">Dice game | Игра в кости (HTML, CSS, JS)</a></li>
+    <li><a href="https://github.com/DmitryKolotilshikov/simple-image-slider">Image Slider | Адаптивный слайдер (HTML, CSS, JS)</a></li>
   </ul>  
 </details>
 
