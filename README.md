@@ -19,7 +19,8 @@
     <li><a href="https://github.com/DmitryKolotilshikov/img_parse">Image uploading and previewing</a></li>
     <li><a href="https://github.com/DmitryKolotilshikov/dice_game">Dice game | Игра в кости (HTML, CSS, JS)</a></li>
     <li><a href="https://github.com/DmitryKolotilshikov/simple-image-slider">Image Slider | Адаптивный слайдер (HTML, CSS, JS)</a></li>
-    <li><a href="https://github.com/DmitryKolotilshikov/crud-user-management-app">CRUD | USERS Management APP. Приложение (HTML, CSS, JS)</a></li>
+    <li><a href="https://github.com/DmitryKolotilshikov/crud-user-management-app">CRUD | USERS Management App. Приложение (HTML, CSS, JS)</a></li>
+    <li><a href="https://github.com/DmitryKolotilshikov/github-user-search-app">GitHub User Search App | Поиск пользователей GitHub. Приложение (HTML, CSS, JS)</a></li>
   </ul>  
 </details>
 
