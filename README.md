@@ -21,6 +21,7 @@
     <li><a href="https://github.com/DmitryKolotilshikov/simple-image-slider">Image Slider | Адаптивный слайдер (HTML, CSS, JS)</a></li>
     <li><a href="https://github.com/DmitryKolotilshikov/crud-user-management-app">CRUD | USERS Management App. Приложение (HTML, CSS, JS)</a></li>
     <li><a href="https://github.com/DmitryKolotilshikov/github-user-search-app">GitHub User Search App | Поиск пользователей GitHub. Приложение (HTML, CSS, JS)</a></li>
+    <li><a href="https://github.com/DmitryKolotilshikov/exchange-rates-app">Exchange Rates App | Курсы валют. Приложение (HTML, CSS, JS)</a></li>
   </ul>  
 </details>
 
