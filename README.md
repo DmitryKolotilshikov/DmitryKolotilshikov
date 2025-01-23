@@ -11,17 +11,19 @@
 
 <details><summary><b>⚡ JS Projects</b></summary>  
   <ul>
-    <li><a href="https://github.com/DmitryKolotilshikov/todo-app-func">TODO application (func)</a></li>
-    <li><a href="https://github.com/DmitryKolotilshikov/todo-application-mvc">TODO application MVC</a></li>
-    <li><a href="https://github.com/DmitryKolotilshikov/todo-app-oop">TODO application in OOP style</a></li>
-    <li><a href="https://github.com/DmitryKolotilshikov/calendar">Calendar application</a></li>
-    <li><a href="https://github.com/DmitryKolotilshikov/trello-desks-todo-app">Trello TODO app (OOP)</a></li>
+    <li><a href="https://github.com/DmitryKolotilshikov/todo-app-simple-ver1">TODO App (super simple)</a></li>
+    <li><a href="https://github.com/DmitryKolotilshikov/todo-app-func">TODO App (advanced) | variant 1</a></li>
+    <li><a href="https://github.com/DmitryKolotilshikov/todo-app-advanced-ver2">TODO App (advanced) | variant 2</a></li>
+    <li><a href="https://github.com/DmitryKolotilshikov/todo-application-mvc">TODO application MVC (Model View Controller)</a></li>
+    <li><a href="https://github.com/DmitryKolotilshikov/todo-app-oop">TODO App (OOP style)</a></li>
+    <li><a href="https://github.com/DmitryKolotilshikov/calendar">Calendar App (advanced) | Календарь</a></li>
+    <li><a href="https://github.com/DmitryKolotilshikov/trello-desks-todo-app">Trello TODO App (OOP style)</a></li>
     <li><a href="https://github.com/DmitryKolotilshikov/img_parse">Image uploading and previewing</a></li>
-    <li><a href="https://github.com/DmitryKolotilshikov/dice_game">Dice game | Игра в кости (HTML, CSS, JS)</a></li>
-    <li><a href="https://github.com/DmitryKolotilshikov/simple-image-slider">Image Slider | Адаптивный слайдер (HTML, CSS, JS)</a></li>
-    <li><a href="https://github.com/DmitryKolotilshikov/crud-user-management-app">CRUD | USERS Management App. Приложение (HTML, CSS, JS)</a></li>
-    <li><a href="https://github.com/DmitryKolotilshikov/github-user-search-app">GitHub User Search App | Поиск пользователей GitHub. Приложение (HTML, CSS, JS)</a></li>
-    <li><a href="https://github.com/DmitryKolotilshikov/exchange-rates-app">Exchange Rates App | Курсы валют. Приложение (HTML, CSS, JS)</a></li>
+    <li><a href="https://github.com/DmitryKolotilshikov/dice_game">Dice game App | Игра в кости</a></li>
+    <li><a href="https://github.com/DmitryKolotilshikov/simple-image-slider">Image Slider | Адаптивный слайдер</a></li>
+    <li><a href="https://github.com/DmitryKolotilshikov/crud-user-management-app">CRUD | USERS Management App</a></li>
+    <li><a href="https://github.com/DmitryKolotilshikov/github-user-search-app">GitHub User Search App | Поиск пользователей GitHub</a></li>
+    <li><a href="https://github.com/DmitryKolotilshikov/exchange-rates-app">Exchange Rates App | Курсы валют</a></li>
   </ul>  
 </details>
 
