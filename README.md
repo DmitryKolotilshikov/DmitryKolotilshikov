@@ -11,6 +11,7 @@
 
 <details><summary><b>⚡ JS Projects</b></summary>  
   <ul>
+    <li><a href="https://github.com/DmitryKolotilshikov/full_js_course">FULL JavaScript Course | Большой курс по JavaScript</a></li>
     <li><a href="https://github.com/DmitryKolotilshikov/todo-app-simple-ver1">TODO App (super simple)</a></li>
     <li><a href="https://github.com/DmitryKolotilshikov/todo-app-func">TODO App (advanced) | variant 1</a></li>
     <li><a href="https://github.com/DmitryKolotilshikov/todo-app-advanced-ver2">TODO App (advanced) | variant 2</a></li>
