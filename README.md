@@ -28,6 +28,12 @@
   </ul>  
 </details>
 
+<details><summary><b>🧢 TypeScript Projects</b></summary>
+  <ul>
+    <li><a href="https://github.com/DmitryKolotilshikov/typescript-course-from-scratch">Typescript - Полный курс с 0 до Pro. Теория и Практика</a></li>
+  </ul>
+</details>
+
 <details><summary><b>💎 Frontender[1.0] - 1 Module | Materials</b></summary>  
   <ul>
     <li><a href="https://youtube.com/playlist?list=PLV9lBwGQ2FU1VOctyWifetyMMC-OTJ51e&feature=shared">----- 1 Module Playlist | Плейлист 1 Модуля | YouTube -----</a></li>
