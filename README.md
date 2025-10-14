@@ -50,3 +50,12 @@
     <li><a href="https://github.com/DmitryKolotilshikov/react_19_updates">React 19 Updates | Обзор, Примеры кода, мини Quiz приложение</a></li>
   </ul>  
 </details>
+
+<details><summary><b>🏆 Contributions / Projects 🏆</b></summary>  
+  <ul>
+    <li>
+      <a href="https://github.com/rustworthy/realworld-axum-react">RealWorld Application | Rust + React + TypeScript</a>
+      <p>This codebase demonstrates a full-stack implementation <a href="https://github.com/gothinkster/realworld">RealWorld</a> specification with Rust (powering the <a href="https://api.realworld-axum-react.org/">API</a>) and TypeScript (for the <a href="https://app.realworld-axum-react.org/">end-user</a> interfacing part).</p>
+    </li>
+  </ul>  
+</details>
