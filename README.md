@@ -48,6 +48,13 @@
 <details><summary><b>🧿 React </b></summary>  
   <ul>
     <li><a href="https://github.com/DmitryKolotilshikov/react_19_updates">React 19 Updates | Обзор, Примеры кода, мини Quiz приложение</a></li>
+    <li><a href="https://github.com/DmitryKolotilshikov/greeting-generator">React, Typescript, Tailwind, Gemini AI | Генератор Поздравлений | Greeting generator</a></li>
+  </ul>  
+</details>
+
+<details><summary><b>🎮 AI projects </b></summary>  
+  <ul>
+    <li><a href="https://github.com/DmitryKolotilshikov/greeting-generator">React, Typescript, Tailwind, Gemini AI | Генератор Поздравлений | Greeting generator</a></li>
   </ul>  
 </details>
 
