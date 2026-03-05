@@ -50,6 +50,7 @@
     <li><a href="https://github.com/DmitryKolotilshikov/react_19_updates">React 19 Updates | Обзор, Примеры кода, мини Quiz приложение</a></li>
     <li><a href="https://github.com/DmitryKolotilshikov/greeting-generator">React, Typescript, Tailwind, Gemini AI | Генератор Поздравлений | Greeting generator</a></li>
     <li><a href="https://github.com/DmitryKolotilshikov/react_css_best_architecture">Лучший способ писать CSS в React. Курс по идеальной архитектуре стилей</a></li>
+    <li><a href="https://github.com/DmitryKolotilshikov/css-modules-vs-css-in-js-mui-emotion-styled">Сравнение CSS-IN-JS и CSS Modules.</a></li>
   </ul>  
 </details>
 
