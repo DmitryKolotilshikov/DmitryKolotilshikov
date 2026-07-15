@@ -1,4 +1,7 @@
-![image](Cover_DK_Youtube_thin.jpg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <img src="./light.svg" alt="Dmitry Kolotilshikov — Full Stack Developer | AI Enthusiast">
+</picture>
 
 ### Hi there 👋
 
