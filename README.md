@@ -60,6 +60,7 @@
 <details><summary><b>🎮 AI projects </b></summary>  
   <ul>
     <li><a href="https://github.com/DmitryKolotilshikov/greeting-generator">React, Typescript, Tailwind, Gemini AI | Генератор Поздравлений | Greeting generator</a></li>
+    <li><a href="https://github.com/DmitryKolotilshikov/pomodoro-claude-full-course">Claude Code с нуля, Полный курс 2027</a></li>
   </ul>  
 </details>
 
